@@ -1,0 +1,5 @@
+language: python
+python:
+  - "3.12"
+# command to run export
+script: py export.py

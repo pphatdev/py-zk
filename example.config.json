@@ -1,0 +1,19 @@
+{
+    "backdate":"%Y-%m-%d 00:00:00",
+    "processor": "py",
+    "fingerprint": {
+        "fp_name": {
+            "ip": "172.23.204.74",
+            "port": 4371
+        }
+    },
+    "database": {
+        "prod": {
+            "name": "postgres",
+            "host": "127.0.0.1",
+            "user": "postgres",
+            "password": "postgres",
+            "port": 5432
+        }
+    }
+}

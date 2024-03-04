@@ -1,0 +1,29 @@
+# General
+/config/*
+/scripts/*
+!.gitignore
+!*.sample
+config.ini
+tmp/
+.vscode
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Configuration
+config.json
+
+data/*
